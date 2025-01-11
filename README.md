@@ -21,3 +21,9 @@ Welcome To my GitHub Profile
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Django" src="https://img.shields.io/badge/-Django-3f5548?style=flat-square&logo=django&logoColor=white" />
 </p>
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/TehreemAjaz" target="_blank">
+<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</p>
